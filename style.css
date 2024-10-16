@@ -1,0 +1,23 @@
+body {
+ color: deepskyblue;
+ background-color: black;
+}
+h1 {
+    color: lightpink;
+    text-align: center;
+}
+h2 {
+   color: blue;
+    text-align: center;
+}
+h3 {
+    color: brown;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+label {
+    color: cornflowerblue;
+}
